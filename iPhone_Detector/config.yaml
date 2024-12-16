@@ -1,0 +1,7 @@
+path : C:\Users\prajwal\Downloads\iPhone_Detector\data
+
+train: C:\Users\prajwal\Downloads\iPhone_Detector\data\images\train
+val : C:\Users\prajwal\Downloads\iPhone_Detector\data\images\val
+
+nc: 1
+names: ['iPhone']

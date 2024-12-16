@@ -1,0 +1,6 @@
+path : C:\Users\prajwal\Downloads\butterfly\data
+train: C:\Users\prajwal\Downloads\butterfly\data\images\train
+val : C:\Users\prajwal\Downloads\butterfly\data\images\val
+
+nc: 1
+names: ['butterfly']
